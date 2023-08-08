@@ -1,0 +1,37 @@
+*{
+    font-family: cursive, sans-serif;
+    font-weight: 100;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1638184984605-af1f05249a56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&w=1000&q=80);
+    background-size: cover;
+}
+
+.nav {
+    background: #222;
+}
+
+.nav__li {
+    display: inline-block;
+    padding: 20px;
+    color: #fff;
+}
+
+.nav__li:hover > a {
+    color: #bbb;
+}
+
+.nav__li:hover {
+    color: #bbb;
+}
+
+.nav__li > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.texto {
+    color: #fff;
+}
+
