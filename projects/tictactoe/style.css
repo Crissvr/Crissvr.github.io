@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+}
+
+.game-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 306px;
+    margin: auto;
+}
+
+.game-cell {
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+    border: 2px solid #333;
+}
