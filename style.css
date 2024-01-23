@@ -425,6 +425,10 @@ footer .column > a:hover{
         grid-template-columns: repeat(1, 1fr);
     }
 
+    .skills{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
     .projects{
         grid-template-columns: repeat(1, 1fr);
     }
